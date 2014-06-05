@@ -40,3 +40,8 @@ RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule .* index.php/$0 [PT,L] 
+
+
+Demo
+----
+http://beta.dragost.es/webs/catalogo/
